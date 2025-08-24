@@ -1,0 +1,15 @@
+2025-08-24 22:07:07,068 - __main__ - INFO - ESCI Data Loader initialised with 2 data sources
+2025-08-24 22:09:22,182 - __main__ - INFO - ESCI Data Loader initialised with 2 data sources
+2025-08-24 22:09:22,182 - __main__ - INFO - downloading train.parquet from https://github.com/amazon-science/esci-data/raw/main/shopping_queries_dataset/shopping_queries_dataset_examples.parquet
+2025-08-24 22:09:25,741 - __main__ - ERROR - unexpected error downloading train.parquet: name 'B' is not defined
+2025-08-24 22:09:25,746 - __main__ - INFO - downloading products.parquet from https://github.com/amazon-science/esci-data/raw/main/shopping_queries_dataset/shopping_queries_dataset_products.parquet
+2025-08-24 22:10:16,831 - __main__ - ERROR - unexpected error downloading products.parquet: name 'B' is not defined
+2025-08-24 22:10:16,844 - __main__ - INFO - successfully loaded 0 datasets
+2025-08-24 22:14:21,361 - __main__ - INFO - ESCI Data Loader initialised with 2 data sources
+2025-08-24 22:14:21,361 - __main__ - INFO - File already exists: train.parquet
+2025-08-24 22:14:21,361 - __main__ - INFO - Loading train dataset...
+2025-08-24 22:14:23,595 - __main__ - ERROR - Failed to load train: Could not open Parquet input source '<Buffer>': Parquet file size is 0 bytes
+2025-08-24 22:14:23,596 - __main__ - INFO - File already exists: products.parquet
+2025-08-24 22:14:23,596 - __main__ - INFO - Loading products dataset...
+2025-08-24 22:14:23,596 - __main__ - ERROR - Failed to load products: Could not open Parquet input source '<Buffer>': Parquet file size is 0 bytes
+2025-08-24 22:14:23,596 - __main__ - INFO - Successfully loaded 0 datasets

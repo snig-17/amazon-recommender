@@ -13,3 +13,149 @@
 2025-08-24 22:14:23,596 - __main__ - INFO - Loading products dataset...
 2025-08-24 22:14:23,596 - __main__ - ERROR - Failed to load products: Could not open Parquet input source '<Buffer>': Parquet file size is 0 bytes
 2025-08-24 22:14:23,596 - __main__ - INFO - Successfully loaded 0 datasets
+2025-08-24 23:17:35,431 - matplotlib.font_manager - WARNING - Matplotlib is building the font cache; this may take a moment.
+2025-08-24 23:17:38,387 - matplotlib.font_manager - INFO - Failed to extract font properties from /System/Library/PrivateFrameworks/FontServices.framework/Resources/Reserved/PingFangUI.ttc: Can not load face (locations (loca) table missing; error code 0x90)
+2025-08-24 23:17:38,404 - matplotlib.font_manager - INFO - Failed to extract font properties from /System/Library/Fonts/Supplemental/NISC18030.ttf: Could not set the fontsize (invalid pixel size; error code 0x17)
+2025-08-24 23:17:38,410 - matplotlib.font_manager - INFO - Failed to extract font properties from /System/Library/Fonts/ZitherMalayalam.otf: Can not load face (SFNT font table missing; error code 0x8e)
+2025-08-24 23:17:38,419 - matplotlib.font_manager - INFO - Failed to extract font properties from /System/Library/Fonts/LastResort.otf: tuple indices must be integers or slices, not str
+2025-08-24 23:17:38,448 - matplotlib.font_manager - INFO - Failed to extract font properties from /System/Library/Fonts/ZitherTamil.otf: Can not load face (SFNT font table missing; error code 0x8e)
+2025-08-24 23:17:38,456 - matplotlib.font_manager - INFO - Failed to extract font properties from /System/Library/Fonts/ZitherIndia.otf: Can not load face (SFNT font table missing; error code 0x8e)
+2025-08-24 23:17:38,484 - matplotlib.font_manager - INFO - Failed to extract font properties from /System/Library/Fonts/Apple Color Emoji.ttc: Could not set the fontsize (invalid pixel size; error code 0x17)
+2025-08-24 23:17:38,536 - matplotlib.font_manager - INFO - generated new fontManager
+2025-08-24 23:17:52,044 - src.data_loader - INFO - ESCI Data Loader initialised with 2 data sources
+2025-08-24 23:17:52,044 - src.data_loader - INFO - File already exists: train.parquet
+2025-08-24 23:17:52,044 - src.data_loader - INFO - Loading train dataset...
+2025-08-24 23:17:52,147 - src.data_loader - ERROR - Failed to load train: Could not open Parquet input source '<Buffer>': Parquet file size is 0 bytes
+2025-08-24 23:17:52,147 - src.data_loader - INFO - File already exists: products.parquet
+2025-08-24 23:17:52,147 - src.data_loader - INFO - Loading products dataset...
+2025-08-24 23:17:52,148 - src.data_loader - ERROR - Failed to load products: Could not open Parquet input source '<Buffer>': Parquet file size is 0 bytes
+2025-08-24 23:17:52,148 - src.data_loader - INFO - Successfully loaded 0 datasets
+2025-08-24 23:19:40,149 - src.data_loader - INFO - ESCI Data Loader initialised with 2 data sources
+2025-08-24 23:19:40,149 - src.data_loader - INFO - File already exists: train.parquet
+2025-08-24 23:19:40,149 - src.data_loader - INFO - Loading train dataset...
+2025-08-24 23:19:40,231 - src.data_loader - ERROR - Failed to load train: Could not open Parquet input source '<Buffer>': Parquet file size is 0 bytes
+2025-08-24 23:19:40,232 - src.data_loader - INFO - File already exists: products.parquet
+2025-08-24 23:19:40,232 - src.data_loader - INFO - Loading products dataset...
+2025-08-24 23:19:40,232 - src.data_loader - ERROR - Failed to load products: Could not open Parquet input source '<Buffer>': Parquet file size is 0 bytes
+2025-08-24 23:19:40,232 - src.data_loader - INFO - Successfully loaded 0 datasets
+2025-08-24 23:19:57,659 - __main__ - INFO - ESCI Data Loader initialised with 2 data sources
+2025-08-24 23:19:57,660 - __main__ - INFO - File already exists: train.parquet
+2025-08-24 23:19:57,660 - __main__ - INFO - Loading train dataset...
+2025-08-24 23:19:57,721 - __main__ - ERROR - Failed to load train: Could not open Parquet input source '<Buffer>': Parquet file size is 0 bytes
+2025-08-24 23:19:57,721 - __main__ - INFO - File already exists: products.parquet
+2025-08-24 23:19:57,721 - __main__ - INFO - Loading products dataset...
+2025-08-24 23:19:57,721 - __main__ - ERROR - Failed to load products: Could not open Parquet input source '<Buffer>': Parquet file size is 0 bytes
+2025-08-24 23:19:57,721 - __main__ - INFO - Successfully loaded 0 datasets
+2025-08-25 12:47:12,977 - src.data_loader - INFO - ESCI Data Loader initialised with 2 data sources
+2025-08-25 12:47:12,978 - src.data_loader - INFO - File already exists: train.parquet
+2025-08-25 12:47:12,978 - src.data_loader - INFO - Loading train dataset...
+2025-08-25 12:47:13,080 - src.data_loader - ERROR - Failed to load train: Could not open Parquet input source '<Buffer>': Parquet file size is 0 bytes
+2025-08-25 12:47:13,080 - src.data_loader - INFO - File already exists: products.parquet
+2025-08-25 12:47:13,080 - src.data_loader - INFO - Loading products dataset...
+2025-08-25 12:47:13,081 - src.data_loader - ERROR - Failed to load products: Could not open Parquet input source '<Buffer>': Parquet file size is 0 bytes
+2025-08-25 12:47:13,081 - src.data_loader - INFO - Successfully loaded 0 datasets
+2025-08-25 12:58:19,055 - src.data_loader - INFO - ESCI Data Loader initialised with 2 data sources
+2025-08-25 12:58:19,057 - src.data_loader - INFO - File already exists: train.parquet
+2025-08-25 12:58:19,057 - src.data_loader - INFO - Loading train dataset...
+2025-08-25 12:58:19,144 - src.data_loader - ERROR - Failed to load train: Could not open Parquet input source '<Buffer>': Parquet file size is 0 bytes
+2025-08-25 12:58:19,144 - src.data_loader - INFO - File already exists: products.parquet
+2025-08-25 12:58:19,144 - src.data_loader - INFO - Loading products dataset...
+2025-08-25 12:58:19,145 - src.data_loader - ERROR - Failed to load products: Could not open Parquet input source '<Buffer>': Parquet file size is 0 bytes
+2025-08-25 12:58:19,145 - src.data_loader - INFO - Successfully loaded 0 datasets
+2025-08-25 13:10:12,518 - __main__ - INFO - ESCI Data Loader initialised with 2 data sources
+2025-08-25 13:10:12,518 - __main__ - INFO - 🔍 Scanning for corrupted files...
+2025-08-25 13:10:12,519 - __main__ - WARNING - 🚨 CORRUPTED: /Users/snigdhatiwari/Desktop/data science projects/data/raw/train.parquet is 0 bytes!
+2025-08-25 13:10:12,519 - __main__ - INFO - 🗑️ Cleaned up corrupted file: train.parquet
+2025-08-25 13:10:12,519 - __main__ - WARNING - 🚨 CORRUPTED: /Users/snigdhatiwari/Desktop/data science projects/data/raw/products.parquet is 0 bytes!
+2025-08-25 13:10:12,519 - __main__ - INFO - 🗑️ Cleaned up corrupted file: products.parquet
+2025-08-25 13:10:12,520 - __main__ - INFO - Cleaned up 2 corrupted files
+2025-08-25 13:10:12,520 - __main__ - INFO - Downloading train.parquet from https://github.com/amazon-science/esci-data/raw/main/shopping_queries_dataset/shopping_queries_dataset_examples.parquet
+2025-08-25 13:10:20,576 - __main__ - ERROR - ❌ File validation failed for /Users/snigdhatiwari/Desktop/data science projects/data/raw/train.parquet: read_table() got an unexpected keyword argument 'nrows'
+2025-08-25 13:10:20,576 - __main__ - ERROR - Downloaded file failed validation: train.parquet
+2025-08-25 13:10:20,578 - __main__ - WARNING - Failed to load train - trying force download...
+2025-08-25 13:10:20,578 - __main__ - INFO - Forcing fresh download - removing existing: train.parquet
+2025-08-25 13:10:20,579 - __main__ - INFO - ✅ Removed existing file: train.parquet
+2025-08-25 13:10:20,579 - __main__ - INFO - Downloading train.parquet from https://github.com/amazon-science/esci-data/raw/main/shopping_queries_dataset/shopping_queries_dataset_examples.parquet
+2025-08-25 13:10:23,607 - __main__ - ERROR - ❌ File validation failed for /Users/snigdhatiwari/Desktop/data science projects/data/raw/train.parquet: read_table() got an unexpected keyword argument 'nrows'
+2025-08-25 13:10:23,607 - __main__ - ERROR - Downloaded file failed validation: train.parquet
+2025-08-25 13:10:23,611 - __main__ - INFO - Downloading products.parquet from https://github.com/amazon-science/esci-data/raw/main/shopping_queries_dataset/shopping_queries_dataset_products.parquet
+2025-08-25 13:10:54,100 - __main__ - ERROR - Download failed for products.parquet: HTTPSConnectionPool(host='media.githubusercontent.com', port=443): Read timed out. (read timeout=30)
+2025-08-25 13:10:54,101 - __main__ - WARNING - Failed to load products - trying force download...
+2025-08-25 13:10:54,102 - __main__ - INFO - Downloading products.parquet from https://github.com/amazon-science/esci-data/raw/main/shopping_queries_dataset/shopping_queries_dataset_products.parquet
+2025-08-25 13:11:53,825 - __main__ - ERROR - ❌ File validation failed for /Users/snigdhatiwari/Desktop/data science projects/data/raw/products.parquet: read_table() got an unexpected keyword argument 'nrows'
+2025-08-25 13:11:53,832 - __main__ - ERROR - Downloaded file failed validation: products.parquet
+2025-08-25 13:11:53,833 - __main__ - INFO - Successfully loaded 0 out of 2 datasets
+2025-08-25 13:11:59,609 - __main__ - WARNING - 🚨 EMERGENCY RESET: Deleting all downloaded data
+2025-08-25 13:11:59,616 - __main__ - INFO - Deleted: train.parquet
+2025-08-25 13:11:59,622 - __main__ - INFO - Deleted: products.parquet
+2025-08-25 13:11:59,633 - __main__ - INFO - Downloading train.parquet from https://github.com/amazon-science/esci-data/raw/main/shopping_queries_dataset/shopping_queries_dataset_examples.parquet
+2025-08-25 13:12:01,888 - __main__ - ERROR - ❌ File validation failed for /Users/snigdhatiwari/Desktop/data science projects/data/raw/train.parquet: read_table() got an unexpected keyword argument 'nrows'
+2025-08-25 13:12:01,888 - __main__ - ERROR - Downloaded file failed validation: train.parquet
+2025-08-25 13:12:01,892 - __main__ - INFO - Downloading products.parquet from https://github.com/amazon-science/esci-data/raw/main/shopping_queries_dataset/shopping_queries_dataset_products.parquet
+2025-08-25 13:13:40,983 - __main__ - ERROR - Download failed for products.parquet: HTTPSConnectionPool(host='media.githubusercontent.com', port=443): Read timed out.
+2025-08-25 13:13:40,985 - __main__ - INFO - Emergency reset complete: 0/2 datasets recovered
+2025-08-25 13:18:17,144 - __main__ - INFO - ESCI Data Loader initialised with 2 data sources
+2025-08-25 13:18:17,145 - __main__ - INFO - 🔍 Scanning for corrupted files...
+2025-08-25 13:18:17,902 - __main__ - INFO - ✅ File validated: /Users/snigdhatiwari/Desktop/data science projects/data/raw/train.parquet (51,286,808 bytes)
+2025-08-25 13:18:17,975 - __main__ - ERROR - ❌ File validation failed for /Users/snigdhatiwari/Desktop/data science projects/data/raw/products.parquet: Could not open Parquet input source '<Buffer>': Parquet magic bytes not found in footer. Either the file is corrupted or this is not a parquet file.
+2025-08-25 13:18:17,976 - __main__ - INFO - 🗑️ Cleaned up corrupted file: products.parquet
+2025-08-25 13:18:17,976 - __main__ - INFO - Cleaned up 1 corrupted files
+2025-08-25 13:18:18,526 - __main__ - INFO - ✅ File validated: /Users/snigdhatiwari/Desktop/data science projects/data/raw/train.parquet (51,286,808 bytes)
+2025-08-25 13:18:18,587 - __main__ - INFO - File already exists and is valid: train.parquet
+2025-08-25 13:18:18,587 - __main__ - INFO - Loading train dataset...
+2025-08-25 13:18:19,161 - __main__ - INFO - Loaded train: 2,621,288 rows, 9 columns
+2025-08-25 13:18:20,480 - __main__ - INFO - Memory usage: 817.5 MB
+2025-08-25 13:18:20,481 - __main__ - INFO - Downloading products.parquet (attempt 1/3)
+2025-08-25 13:19:19,488 - __main__ - INFO - File size: 1057.5 MB
+2025-08-25 13:19:19,489 - __main__ - INFO - ⚠️ Large file detected - this may take several minutes
+2025-08-25 13:19:22,291 - __main__ - INFO - Progress: 4.7% (50 MB)
+2025-08-25 13:19:25,547 - __main__ - INFO - Progress: 9.5% (100 MB)
+2025-08-25 13:19:27,851 - __main__ - INFO - Progress: 14.2% (150 MB)
+2025-08-25 13:19:31,331 - __main__ - INFO - Progress: 18.9% (200 MB)
+2025-08-25 13:19:37,126 - __main__ - INFO - Progress: 23.6% (250 MB)
+2025-08-25 13:19:41,241 - __main__ - INFO - Progress: 28.4% (300 MB)
+2025-08-25 13:19:46,350 - __main__ - INFO - Progress: 33.1% (350 MB)
+2025-08-25 13:19:51,495 - __main__ - INFO - Progress: 37.8% (400 MB)
+2025-08-25 13:19:55,380 - __main__ - INFO - Progress: 42.6% (450 MB)
+2025-08-25 13:19:58,776 - __main__ - INFO - Progress: 47.3% (500 MB)
+2025-08-25 13:20:02,610 - __main__ - INFO - Progress: 52.0% (550 MB)
+2025-08-25 13:20:06,363 - __main__ - INFO - Progress: 56.7% (600 MB)
+2025-08-25 13:20:09,925 - __main__ - INFO - Progress: 61.5% (650 MB)
+2025-08-25 13:20:12,554 - __main__ - INFO - Progress: 66.2% (700 MB)
+2025-08-25 13:20:14,827 - __main__ - INFO - Progress: 70.9% (750 MB)
+2025-08-25 13:20:17,036 - __main__ - INFO - Progress: 75.7% (800 MB)
+2025-08-25 13:20:19,662 - __main__ - INFO - Progress: 80.4% (850 MB)
+2025-08-25 13:20:22,983 - __main__ - INFO - Progress: 85.1% (900 MB)
+2025-08-25 13:20:27,578 - __main__ - INFO - Progress: 89.8% (950 MB)
+2025-08-25 13:20:31,622 - __main__ - INFO - Progress: 94.6% (1000 MB)
+2025-08-25 13:20:35,746 - __main__ - INFO - Progress: 99.3% (1050 MB)
+2025-08-25 13:20:47,337 - __main__ - INFO - ✅ File validated: /Users/snigdhatiwari/Desktop/data science projects/data/raw/products.parquet (1,108,857,465 bytes)
+2025-08-25 13:20:50,359 - __main__ - INFO - ✅ Successfully downloaded and validated: products.parquet
+2025-08-25 13:20:50,368 - __main__ - INFO - Loading products dataset...
+2025-08-25 13:21:13,690 - __main__ - INFO - Loaded products: 1,814,924 rows, 7 columns
+2025-08-25 13:21:20,739 - __main__ - INFO - Memory usage: 3254.8 MB
+2025-08-25 13:21:20,741 - __main__ - INFO - Successfully loaded 2 out of 2 datasets
+2025-08-25 13:22:23,044 - src.data_loader - INFO - ESCI Data Loader initialised with 2 data sources
+2025-08-25 13:22:23,758 - src.data_loader - INFO - ✅ File validated: /Users/snigdhatiwari/Desktop/data science projects/data/raw/train.parquet (51,286,808 bytes)
+2025-08-25 13:22:23,830 - src.data_loader - INFO - File already exists and is valid: train.parquet
+2025-08-25 13:22:23,830 - src.data_loader - INFO - Loading train dataset...
+2025-08-25 13:22:24,408 - src.data_loader - INFO - Loaded train: 2,621,288 rows, 9 columns
+2025-08-25 13:22:25,817 - src.data_loader - INFO - Memory usage: 817.5 MB
+2025-08-25 13:22:44,610 - src.data_loader - INFO - ✅ File validated: /Users/snigdhatiwari/Desktop/data science projects/data/raw/products.parquet (1,108,857,465 bytes)
+2025-08-25 13:22:48,807 - src.data_loader - INFO - File already exists and is valid: products.parquet
+2025-08-25 13:22:48,809 - src.data_loader - INFO - Loading products dataset...
+2025-08-25 13:23:11,601 - src.data_loader - INFO - Loaded products: 1,814,924 rows, 7 columns
+2025-08-25 13:23:15,909 - src.data_loader - INFO - Memory usage: 3254.8 MB
+2025-08-25 13:23:15,910 - src.data_loader - INFO - Successfully loaded 2 out of 2 datasets
+2025-08-25 13:23:15,911 - src.data_analyser - INFO - Analyser initialised with 2 datasets
+2025-08-25 13:23:15,912 - src.data_analyser - INFO - Training data: 2,621,288 rows
+2025-08-25 13:23:15,912 - src.data_analyser - INFO - Product data: 1,814,924 rows
+2025-08-25 13:23:15,935 - src.data_analyser - INFO - 🚀 Starting complete Amazon data analysis...
+2025-08-25 13:23:15,935 - src.data_analyser - INFO - Generating comprehensive dataset profile...
+2025-08-25 13:23:15,941 - src.data_analyser - INFO - Profiling train dataset...
+2025-08-25 13:23:29,017 - src.data_analyser - INFO - Profiling products dataset...
+2025-08-25 13:23:50,771 - src.data_analyser - INFO - Dataset profiling complete
+2025-08-25 13:23:50,772 - src.data_analyser - INFO - Creating ESCI analysis dashboard...
+2025-08-25 13:23:53,240 - src.data_analyser - INFO - ✅ ESCI analysis dashboard created
+2025-08-25 13:23:53,241 - src.data_analyser - INFO - 🔍 Analyzing query patterns...
+2025-08-25 13:23:54,795 - src.data_analyser - INFO - ✅ Complete analysis finished!
